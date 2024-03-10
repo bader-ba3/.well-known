@@ -1,1 +1,5 @@
-hello2
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.ba3.uaepass",
+               "sha256_cert_fingerprints": ["3C:28:8D:20:94:DD:2F:FE:CF:48:8A:32:EF:2C:09:B3:1F:DA:25:21:7C:94:F3:DB:65:5F:77:D8:8D:40:D0:CB"] }
+}]
